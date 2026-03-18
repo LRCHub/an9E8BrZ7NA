@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "grief",
+  "base_artist": "keeno",
+  "createdAt": "2026-03-18T10:06:32.874991Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Making of Grief Point",
+      "artist": "Loscil",
+      "has_synced": true,
+      "path": "select/01_The_Making_of_Grief_Point_Loscil.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tiny Grief Song",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/02_Tiny_Grief_Song_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oh, Good Grief",
+      "artist": "Vince Guaraldi Trio",
+      "has_synced": false,
+      "path": "select/03_Oh,_Good_Grief_Vince_Guaraldi_Trio.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oh, Good Grief - Vocal - Album Version",
+      "artist": "Vince Guaraldi Trio",
+      "has_synced": false,
+      "path": "select/04_Oh,_Good_Grief_-_Vocal_-_Album_Version_Vince_Guaraldi_Trio.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Grief",
+      "artist": "Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/05_Grief_Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Only When I Lose Myself (Russian Grief Ambient Instrumental)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/06_Only_When_I_Lose_Myself_(Russian_Grief_Ambient_Instrumental)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Grief",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/07_Good_Grief_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Through Gardens of Grief",
+      "artist": "At the Gates",
+      "has_synced": true,
+      "path": "select/08_Through_Gardens_of_Grief_At_the_Gates.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Grief",
+      "artist": "Sepultura",
+      "has_synced": false,
+      "path": "select/09_Grief_Sepultura.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heroes Grief",
+      "artist": "Mekong Delta",
+      "has_synced": false,
+      "path": "select/10_Heroes_Grief_Mekong_Delta.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Grief",
+      "artist": "The Ting Tings",
+      "has_synced": false,
+      "path": "select/11_Good_Grief_The_Ting_Tings.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Grief",
+      "artist": "Bastille",
+      "has_synced": true,
+      "path": "select/12_Good_Grief_Bastille.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Grief Hammer - Single Version",
+      "artist": "The Darkness",
+      "has_synced": true,
+      "path": "select/13_Grief_Hammer_-_Single_Version_The_Darkness.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Grief Hammer (Single Version)",
+      "artist": "The Darkness",
+      "has_synced": true,
+      "path": "select/14_Grief_Hammer_(Single_Version)_The_Darkness.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shadows of Grief",
+      "artist": "Uriah Heep",
+      "has_synced": true,
+      "path": "select/15_Shadows_of_Grief_Uriah_Heep.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shadows Of Grief",
+      "artist": "Uriah Heep",
+      "has_synced": true,
+      "path": "select/16_Shadows_Of_Grief_Uriah_Heep.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Grief",
+      "artist": "Torres",
+      "has_synced": true,
+      "path": "select/17_Good_Grief_Torres.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "grief",
+      "artist": "keeno Feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_grief_keeno_Feat._初音ミク.txt"
+    }
+  ]
+}
